@@ -1,5 +1,9 @@
 <h1 align="center">Hi 👋, I'm Nihal</h1>
-- 🌱 I’m currently learning **Python**
+I am a Sociologist and NGO professional. My area of expertise is refugee/asylum seeker rights. I am one of the founding members of the NGO @sisterslab.
+
+I love knitting and designing figures with polymer clay.
+
+🌱I started learning Python and I enjoy learning it.
 
 
 <h3 align="left">Connect with me:</h3>
